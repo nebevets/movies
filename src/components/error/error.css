@@ -1,0 +1,22 @@
+.error {
+  position: absolute;
+  width: 80vw;
+  right: 2vw;
+  top: 15vh;
+  text-align: center;
+}
+.errorStack {
+  color: darkred;
+  font-weight: 800;
+}
+.friendlyError {
+  color: darkred;
+  background: white;
+  border: 5px solid maroon;
+  border-radius: 5px;
+}
+.error .url {
+  font-size: small;
+  background-color: maroon;
+  color: white;
+}
